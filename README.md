@@ -8,6 +8,7 @@ Java projekts, kas demonstre git un github lietojamu "Metama kaulina programma"
 - [x] Izveidota GitHub kontu
 - [x] Izveidot GitHub krātuvi
 - [x] Lokālo projektu izvietot GitHub
-- [ ] Papildināto GitHub saturu iegūt lokālai lietošanai
+- [x] Papildināto GitHub saturu iegūt lokālai lietošanai
 - [ ] Projektam pieslēdzies vēl viens programmētajs un izmēģināt kopdarbošana
+- [x] Projektā ievest jaunas zars
 - [ ] Sapuldināti zari, novērsts merge konflikts
